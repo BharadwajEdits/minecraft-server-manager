@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+minecraft/server.jar
+minecraft/world/
+minecraft/world_nether/
+minecraft/world_the_end/
+minecraft/logs/
+minecraft/backups/
+minecraft/plugins/*
+!minecraft/plugins/.gitkeep
+data/backups/
+*.zip
+*.tar.gz
+.DS_Store
